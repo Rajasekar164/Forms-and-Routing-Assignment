@@ -1,0 +1,29 @@
+:root {
+  --primary: #123C32;
+  --primary-light: #1D6652;
+  --accent: #D6B878;
+  --background: #F7F3E9;
+  --text: #252B28;
+  --white: #FFFFFF;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: var(--background);
+  color: var(--text);
+}
+
+button,
+input {
+  font: inherit;
+}
+
+a {
+  text-decoration: none;
+}
