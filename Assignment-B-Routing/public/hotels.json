@@ -1,0 +1,183 @@
+
+[
+  {
+    "id": 1,
+    "name": "Grand Palace Hotel",
+    "location": "Bangalore",
+    "price": 3500,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=900",
+    "description": "A luxury city hotel with elegant rooms, fine dining and modern facilities."
+  },
+  {
+    "id": 2,
+    "name": "Royal Orchid Suites",
+    "location": "Bangalore",
+    "price": 4200,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=900",
+    "description": "Premium suites offering comfort, beautiful interiors and excellent hospitality."
+  },
+  {
+    "id": 3,
+    "name": "The Garden Residency",
+    "location": "Bangalore",
+    "price": 2800,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=900",
+    "description": "A peaceful stay surrounded by greenery in the garden city."
+  },
+  {
+    "id": 4,
+    "name": "Ocean View Resort",
+    "location": "Goa",
+    "price": 5000,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=900",
+    "description": "A beautiful beachside resort with stunning ocean views and luxury facilities."
+  },
+  {
+    "id": 5,
+    "name": "Palm Beach Retreat",
+    "location": "Goa",
+    "price": 4500,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1575429198097-0414ec08e8cd?w=900",
+    "description": "Relax near the beach with tropical surroundings and comfortable accommodation."
+  },
+  {
+    "id": 6,
+    "name": "Sunset Paradise",
+    "location": "Goa",
+    "price": 3800,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=900",
+    "description": "Enjoy beautiful sunsets, swimming pools and a relaxing holiday."
+  },
+  {
+    "id": 7,
+    "name": "Mountain Paradise",
+    "location": "Ooty",
+    "price": 2800,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?w=900",
+    "description": "A peaceful mountain resort surrounded by green hills and nature."
+  },
+  {
+    "id": 8,
+    "name": "Silver Oak Resort",
+    "location": "Ooty",
+    "price": 3200,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=900",
+    "description": "Enjoy a relaxing stay with scenic mountain views and beautiful gardens."
+  },
+  {
+    "id": 9,
+    "name": "Hilltop Heritage Stay",
+    "location": "Ooty",
+    "price": 2500,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1449158743715-0a90ebb6d2d8?w=900",
+    "description": "A charming heritage-style stay in the peaceful Nilgiri hills."
+  },
+  {
+    "id": 10,
+    "name": "Lakeview Grand",
+    "location": "Mysore",
+    "price": 3000,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=900",
+    "description": "A comfortable hotel close to Mysore's popular attractions."
+  },
+  {
+    "id": 11,
+    "name": "Royal Heritage Palace",
+    "location": "Mysore",
+    "price": 4800,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=900",
+    "description": "Experience royal-inspired accommodation with elegant hospitality."
+  },
+  {
+    "id": 12,
+    "name": "Coastal Breeze Hotel",
+    "location": "Chennai",
+    "price": 3600,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?w=900",
+    "description": "A modern hotel offering a comfortable coastal city experience."
+  },
+  {
+    "id": 13,
+    "name": "Marina Grand Stay",
+    "location": "Chennai",
+    "price": 4100,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=900",
+    "description": "Premium rooms and excellent facilities for business and leisure travellers."
+  },
+  {
+    "id": 14,
+    "name": "Green Valley Resort",
+    "location": "Munnar",
+    "price": 3900,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1449158743715-0a90ebb6d2d8?w=900",
+    "description": "A scenic resort surrounded by tea gardens and beautiful green valleys."
+  },
+  {
+    "id": 15,
+    "name": "Tea Garden Retreat",
+    "location": "Munnar",
+    "price": 3400,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=900",
+    "description": "A peaceful retreat with comfortable rooms and refreshing mountain air."
+  },
+  {
+    "id": 16,
+    "name": "Royal Lake Resort",
+    "location": "Udaipur",
+    "price": 5500,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=900",
+    "description": "A luxury resort offering spectacular lake views and elegant accommodation."
+  },
+  {
+    "id": 17,
+    "name": "City Lights Hotel",
+    "location": "Mumbai",
+    "price": 5200,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=900",
+    "description": "A stylish city hotel with modern rooms and convenient facilities."
+  },
+  {
+    "id": 18,
+    "name": "Desert Rose Palace",
+    "location": "Jaipur",
+    "price": 4600,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=900",
+    "description": "A traditional luxury stay inspired by Rajasthan's royal architecture."
+  },
+  {
+    "id": 19,
+    "name": "Snow Peak Residency",
+    "location": "Manali",
+    "price": 3700,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=900",
+    "description": "Enjoy mountain scenery and a comfortable stay in the Himalayas."
+  },
+  {
+    "id": 20,
+    "name": "Riverside Luxury Stay",
+    "location": "Rishikesh",
+    "price": 3300,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=900",
+    "description": "A relaxing riverside escape with peaceful surroundings and modern comforts."
+  }
+]
